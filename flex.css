@@ -1,0 +1,33 @@
+/* Maga Alkhasov */
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.outer {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  background: #ccc;
+  width: 1290px;
+}
+
+.block {
+  background: #f2f3f5;
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}

@@ -1,7 +1,4 @@
-# hello-again
+# log
 
-Additional text to edits branch
-
-#remote
-
-Text form remote computer
+13 oct, the beginning
+14 oct, flexbox games
